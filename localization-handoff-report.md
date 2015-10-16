@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\windowscontainers\about\about_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/5b56a2ca519ceec8d6fc5146e6f444c3e71900e6/virtualization/windowscontainers/about/about_overview.md) | HandedOff | [Details](#af0e195779bd2a453543a020e1498e0fd398f1fb199)
+ [virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/ae0888ddd727101ca8f9a1851b49a3d43ff9cba4/virtualization/hyperv_on_windows/quick_start/walkthrough_virtual_switch.md) | HandedOff | [Details](#47774db49f5a1c02facd46120ba88a3398a23212181)
 
 ## Item Details
-##### <a name='af0e195779bd2a453543a020e1498e0fd398f1fb199'></a> Source: [virtualization\windowscontainers\about\about_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/5b56a2ca519ceec8d6fc5146e6f444c3e71900e6/virtualization/windowscontainers/about/about_overview.md)
+##### <a name='47774db49f5a1c02facd46120ba88a3398a23212181'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/ae0888ddd727101ca8f9a1851b49a3d43ff9cba4/virtualization/hyperv_on_windows/quick_start/walkthrough_virtual_switch.md)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [af0e195779bd2a453543a020e1498e0fd398f1fb.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/2dec217cd59cb8f7b618289756c81f40bc9f90a1/ol-handoff/OpenLocalizationOrg/hyperVTest.fr-fr/master/af0e195779bd2a453543a020e1498e0fd398f1fb.xlf)
+* Handoff File: [47774db49f5a1c02facd46120ba88a3398a23212.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9b2be5f1e21ba1f0daf2c05fab29b3e685e16eca/ol-handoff/OpenLocalizationOrg/hyperVTest.fr-fr/master/47774db49f5a1c02facd46120ba88a3398a23212.xlf)
 * Handback File: 
-* Handoff Datetime: 2015-10-16 06:40:55
+* Handoff Datetime: 2015-10-16 23:51:57
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Include
 * [Back to Top](#report-top)

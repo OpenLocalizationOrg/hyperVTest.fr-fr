@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\develop\powershell_snippets.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/afc67b5964f4bc33b014383f912feff83cfe866c/virtualization/hyperv_on_windows/develop/powershell_snippets.md) | HandedOff | [Details](#a7640c222d084ad8705adf3206cc238fc33ff331103)
+ [virtualization\hyperv_on_windows\quick_start\walkthrough_export_import.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/c99cc7210d9789693d6d39d6c2cf10e4097ba200/virtualization/hyperv_on_windows/quick_start/walkthrough_export_import.md) | HandedOff | [Details](#ee0c7673a7da915db8c2d41f0d24233aac1b9787179)
 
 ## Item Details
-##### <a name='a7640c222d084ad8705adf3206cc238fc33ff331103'></a> Source: [virtualization\hyperv_on_windows\develop\powershell_snippets.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/afc67b5964f4bc33b014383f912feff83cfe866c/virtualization/hyperv_on_windows/develop/powershell_snippets.md)
+##### <a name='ee0c7673a7da915db8c2d41f0d24233aac1b9787179'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_export_import.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/c99cc7210d9789693d6d39d6c2cf10e4097ba200/virtualization/hyperv_on_windows/quick_start/walkthrough_export_import.md)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [powershell_snippets.21e7d9aff80df6f1c56918c2c3e1149d3e880e9a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/253cd07f939797dc3265e9787db5b13cd7b46413/ol-handoff/OpenLocalizationOrg/hyperVTest.fr-fr/master/powershell_snippets.21e7d9aff80df6f1c56918c2c3e1149d3e880e9a.fr-fr.xlf)
+* Handoff File: [walkthrough_export_import.357da837e16b81b7e63ec02325c79b3b0eb2e511.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/5ec42279870577d5651a8910fd8ef0e64890febd/ol-handoff/OpenLocalizationOrg/hyperVTest.fr-fr/master/walkthrough_export_import.357da837e16b81b7e63ec02325c79b3b0eb2e511.fr-fr.xlf)
 * Handback File: 
-* Handoff Datetime: 2015-11-12 21:13:02
+* Handoff Datetime: 2015-11-13 00:04:26
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Include
 * [Back to Top](#report-top)

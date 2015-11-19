@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\windows_welcome_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/e272bd7ec510f2f4b89af45f86ee2a458b7be529/virtualization/hyperv_on_windows/windows_welcome_new.md) | HandedOff | [Details](#57fa402afcd7266f766e0e59b22acbaea0c9a8ec198)
+ [virtualization\hyperv_on_windows\windows_welcome_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/e5a377ac5704a2eed2918e7228318ef92356d80f/virtualization/hyperv_on_windows/windows_welcome_new.md) | HandedOff | [Details](#3ecdd26ebe4ceede8ca5210bacc7320309a0d58f198)
 
 ## Item Details
-##### <a name='57fa402afcd7266f766e0e59b22acbaea0c9a8ec198'></a> Source: [virtualization\hyperv_on_windows\windows_welcome_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/e272bd7ec510f2f4b89af45f86ee2a458b7be529/virtualization/hyperv_on_windows/windows_welcome_new.md)
+##### <a name='3ecdd26ebe4ceede8ca5210bacc7320309a0d58f198'></a> Source: [virtualization\hyperv_on_windows\windows_welcome_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/e5a377ac5704a2eed2918e7228318ef92356d80f/virtualization/hyperv_on_windows/windows_welcome_new.md)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [windows_welcome_new.7f23ab90b609bd894e638ebac56e2bc04c35f245.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cb6758729ae50e486c842da6a1864488732d1eda/ol-handoff/OpenLocalizationOrg/hyperVTest.fr-fr/master/windows_welcome_new.7f23ab90b609bd894e638ebac56e2bc04c35f245.fr-fr.xlf)
-* Handoff Datetime: 2015-11-19 01:07:34
+* Handoff File: [windows_welcome_new.7f23ab90b609bd894e638ebac56e2bc04c35f245.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/5301dd6691725dde584433cfb058a38595bf0e77/ol-handoff/OpenLocalizationOrg/hyperVTest.fr-fr/master/windows_welcome_new.7f23ab90b609bd894e638ebac56e2bc04c35f245.fr-fr.xlf)
+* Handoff Datetime: 2015-11-19 01:16:44
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00

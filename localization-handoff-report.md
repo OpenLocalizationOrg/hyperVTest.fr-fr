@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\windows_welcome_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/e5a377ac5704a2eed2918e7228318ef92356d80f/virtualization/hyperv_on_windows/windows_welcome_new.md) | HandedOff | [Details](#3ecdd26ebe4ceede8ca5210bacc7320309a0d58f198)
+ [virtualization\hyperv_on_windows\about\hyperv_on_windows.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/4738b86f34ad0f697279a48bd520fbe3e34b9dc8/virtualization/hyperv_on_windows/about/hyperv_on_windows.md) | HandedOff | [Details](#2c4168559e894467d2db48659da146837b67fc3896)
 
 ## Item Details
-##### <a name='3ecdd26ebe4ceede8ca5210bacc7320309a0d58f198'></a> Source: [virtualization\hyperv_on_windows\windows_welcome_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/e5a377ac5704a2eed2918e7228318ef92356d80f/virtualization/hyperv_on_windows/windows_welcome_new.md)
+##### <a name='2c4168559e894467d2db48659da146837b67fc3896'></a> Source: [virtualization\hyperv_on_windows\about\hyperv_on_windows.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/4738b86f34ad0f697279a48bd520fbe3e34b9dc8/virtualization/hyperv_on_windows/about/hyperv_on_windows.md)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [windows_welcome_new.7f23ab90b609bd894e638ebac56e2bc04c35f245.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/5301dd6691725dde584433cfb058a38595bf0e77/ol-handoff/OpenLocalizationOrg/hyperVTest.fr-fr/master/windows_welcome_new.7f23ab90b609bd894e638ebac56e2bc04c35f245.fr-fr.xlf)
-* Handoff Datetime: 2015-11-19 01:16:44
+* Handoff File: [hyperv_on_windows.d9da0ac74ee24f28f940324928905e38e074d9e2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/4619329f17ec8077eaa88dc5c9243e1228018e5c/ol-handoff/OpenLocalizationOrg/hyperVTest.fr-fr/master/hyperv_on_windows.d9da0ac74ee24f28f940324928905e38e074d9e2.fr-fr.xlf)
+* Handoff Datetime: 2015-11-19 01:26:01
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00

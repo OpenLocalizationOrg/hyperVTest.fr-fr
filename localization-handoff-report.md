@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/7ed3aba7e45f862b6260f42d142943913df3fccf/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md) | HandedOffSuccess | [Details](#106e9fed88aef9562030ff3de14a549146ee54a1169)
+ [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a831fcefcd0192ba407fb89b68f790317ae6343e/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md) | HandedOffSuccess | [Details](#4236e638da01a6ea83874bdc3e567958817aa72f169)
 
 ## Item Details
-##### <a name='106e9fed88aef9562030ff3de14a549146ee54a1169'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/7ed3aba7e45f862b6260f42d142943913df3fccf/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md)
+##### <a name='4236e638da01a6ea83874bdc3e567958817aa72f169'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a831fcefcd0192ba407fb89b68f790317ae6343e/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/958a7a3ee1a99e493618ced36baecf14e9d5c36e/ol-handoff/OpenLocalizationOrg/hyperVTest.fr-fr/live/walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.fr-fr.xlf)
-* Handoff Datetime: 2016-01-14 12:54:58
+* Handoff File: [walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/8fe513d59141146a88e720c818c9cc9e21d3e870/ol-handoff/OpenLocalizationOrg/hyperVTest.fr-fr/live/walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.fr-fr.xlf)
+* Handoff Datetime: 2016-01-14 13:16:50
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00

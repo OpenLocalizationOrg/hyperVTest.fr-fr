@@ -3766,18 +3766,10 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "2016-01-18T11:51:36.0678177Z",
-      "ArchiveException": {
-        "internal_error_code": "archive_transform_failed",
-        "internal_error_message": "Archive file: C:\\gittest\\master\\OpenLocalizationService\\olhandoff\\3f0a89\\ol-handoff\\OpenLocalizationOrg\\hyperVTest.fr-fr\\master\\manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.fr-fr.xlf failed.",
-        "internal_error_retriable": false,
-        "exception_message": "Value cannot be null.\r\nParameter name: input",
-        "exception_type": "System.ArgumentNullException",
-        "stack_trace": "   at System.Xml.XmlReaderSettings.CreateReader(Stream input, Uri baseUri, String baseUriString, XmlParserContext inputContext)\r\n   at System.Xml.Linq.XDocument.Load(Stream stream, LoadOptions options)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetFileHashByPathAndCommitId(GitRepo handoffRepo, String filePath, String commitId) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 785\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.GetArchiveFiles(GitRepo handoffRepo, String handoffDir, String handoffArchiveDir, List`1 handoffArchiveItems, TranslationState translationInfo) in D:\\DevEnlistments\\Source\\OpenLocalization.V2\\src\\OpenLocalization\\Localization\\LocalizationCore.cs:line 161",
-        "extended_information": null
-      }
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.fr-fr\\master\\archive\\manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.fr-fr.xlf",
+      "ArchiveFileCommit": "a039ed2ee5708eb698b5c6b1bad72328d3819764",
+      "ArchiveFileDateTime": "2016-01-18T11:55:47.1384048Z",
+      "ArchiveException": null
     }
   }
 }

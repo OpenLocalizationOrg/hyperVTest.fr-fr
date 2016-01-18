@@ -3067,9 +3067,8 @@
 * Handoff File: [manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/e7db1803ee2d339e58a9b0134d81707ed79b8ce0/ol-handoff/OpenLocalizationOrg/hyperVTest.fr-fr/master/manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.fr-fr.xlf)
 * Handoff Datetime: 2016-01-18 08:44:40
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Archive Error: [archive_transform_failed](#ecf704776198d2aa9f274a7a5dfac99b59bc9e44225archive_transform_failed)
+* Archive File: [manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/a039ed2ee5708eb698b5c6b1bad72328d3819764/ol-handoff/OpenLocalizationOrg/hyperVTest.fr-fr/master/archive/manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.fr-fr.xlf)
+* Archive Datetime: 2016-01-18 11:55:47
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [virtualization\windowscontainers\quick_start\manage_powershell.md](https://github.com/OpenLocalizationOrg/hyperVTest.fr-fr/blob/9882eb1be6da00e6822dbaf401876ab7f36a171f/virtualization/windowscontainers/quick_start/manage_powershell.md)

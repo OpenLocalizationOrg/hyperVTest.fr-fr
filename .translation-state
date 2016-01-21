@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "9694a4724e1e669fa65ba43f9dbc921697d3d272",
+  "LastProcessedCommit": "9cbd523c2d5eb9c618da26e9ad389dc203f6d063",
   "LastTranslatedCommit": "9882eb1be6da00e6822dbaf401876ab7f36a171f",
   "Items": {
     "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": {
@@ -3769,6 +3769,33 @@
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.fr-fr\\master\\archive\\manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.fr-fr.xlf",
       "ArchiveFileCommit": "a039ed2ee5708eb698b5c6b1bad72328d3819764",
       "ArchiveFileDateTime": "2016-01-18T11:55:47.1384048Z",
+      "ArchiveException": null
+    },
+    "83ede64998d302769fe95b606da20296f3bccae5": {
+      "FileHash": "83ede64998d302769fe95b606da20296f3bccae5",
+      "SourceFileCommit": "9cbd523c2d5eb9c618da26e9ad389dc203f6d063",
+      "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\manage_powershell.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\windowscontainers\\quick_start\\manage_powershell.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.fr-fr\\master\\manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.fr-fr.xlf",
+      "HandoffFileCommit": "3bc1ae6d9b15e6311bfc54df6a72f7ba4429f388",
+      "HandoffDateTime": "2016-01-21T08:33:54.0329601Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null
     }
   }

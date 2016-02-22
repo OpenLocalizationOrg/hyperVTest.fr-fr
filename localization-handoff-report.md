@@ -1,11 +1,29 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/cb0717dfb20fe986a8a201bc636554f6f80acd1d/virtualization/hyperv_on_windows/about/powershell_snippets_new.md) | OutofSyncHandedBackSuccess | [Details](#1c3a7999ade59fa3a66011fa9511bf07585cf13a98)
 
 ## Item Details
+##### <a name='1c3a7999ade59fa3a66011fa9511bf07585cf13a98'></a> Source: [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/cb0717dfb20fe986a8a201bc636554f6f80acd1d/virtualization/hyperv_on_windows/about/powershell_snippets_new.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/2d73ea320956dbc648017eb56b2c0c354aa6ac7e/ol-handoff/OpenLocalizationOrg/hyperVTest.fr-fr/master/powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.fr-fr.xlf)
+* Handoff Datetime: 2016-02-22 20:05:20
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest.fr-fr/blob/9882eb1be6da00e6822dbaf401876ab7f36a171f/virtualization/hyperv_on_windows/about/powershell_snippets_new.md)
+* Current Handback File: [powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/913b262931eb7537977602e1f6e0f780047df029/ol-handback/OpenLocalizationOrg/hyperVTest.fr-fr/master/powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.fr-fr.xlf)
+* Current Handback Datetime: 2016-01-11 08:41:42
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\test.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/86dfa441d7a9fcc35eab7d110136707a0cffb482/virtualization/hyperv_on_windows/test.md) | HandedOffSuccess | [Details](#a04371dfc184446dade04e9e8795028ede684c8f177)
 
 ## Item Details
-##### <a name='a04371dfc184446dade04e9e8795028ede684c8f177'></a> Source: [virtualization\hyperv_on_windows\test.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/86dfa441d7a9fcc35eab7d110136707a0cffb482/virtualization/hyperv_on_windows/test.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [test.8be2e9467c0b5c89283a9e20a4a3be701ce9258e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/f79da5a37da9eefaf529b32d281ea79b6aa99e72/ol-handoff/OpenLocalizationOrg/hyperVTest.fr-fr/live/test.8be2e9467c0b5c89283a9e20a4a3be701ce9258e.fr-fr.xlf)
-* Handoff Datetime: 2016-01-27 05:45:49
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
